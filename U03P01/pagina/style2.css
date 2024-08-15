@@ -1,0 +1,11 @@
+.link_mapa{
+    color: red;
+    font-style: initial;
+    font-weight: 600;
+}
+
+.table_style th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 10em;
+}
